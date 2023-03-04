@@ -3,7 +3,7 @@ body{
     padding: 100px 0 0 20px;
   } 
   
-  p{
+  h1{
     font-family: "Courier";
     color: lime; 
     font-size: 20px;
@@ -14,7 +14,7 @@ body{
     animation: linha1 4s steps(50, end);
   }
   
-  p:nth-child(2){
+  h1:nth-child(2){
     animation: linha2 4s steps(50, end);
   }
   
